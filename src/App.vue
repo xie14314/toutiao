@@ -2,7 +2,8 @@ import router from './router';
 <template>
   <div id="app">
     <h1>toutiao</h1>
-    <router-view/>
+    <van-button type="primary">主要按钮</van-button>
+    <router-view />
   </div>
 </template>
 <script>
@@ -11,6 +12,4 @@ export default {
 }
 </script>
 
-<style lang="less">
-
-</style>
+<style lang="less"></style>
