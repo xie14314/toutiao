@@ -1,3 +1,12 @@
-> 1%
-last 2 versions
-not dead
+#自动添加兼容浏览器厂商前缀
+
+#兼容使用者大于1%的浏览器
+#> 1%
+
+#兼容到最新两个版本
+#last 2 versions
+#not dead
+
+Android >= 4.0
+
+iOS >= 8

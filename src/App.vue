@@ -1,8 +1,7 @@
 import router from './router';
 <template>
   <div id="app">
-    <h1>toutiao</h1>
-    <van-button type="primary">主要按钮</van-button>
+    <!-- 路由出口 -->
     <router-view />
   </div>
 </template>
